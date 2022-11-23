@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azeem Khan
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning Mobile Application
+- 🌱 I’m currently learning Flutter Developing
 - 💞️ I’m looking to collaborate on learning
 - 📫 azeemlodhi482@gmail.com
 
